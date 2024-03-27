@@ -34,48 +34,6 @@
             key-positions = <20 21>;
             layers = <0>;
         };
-
-        combo_left_bracket {
-            bindings = <&kp LEFT_BRACKET>;
-            key-positions = <31 32>;
-            layers = <0>;
-        };
-
-        combo_right_bracket {
-            bindings = <&kp RIGHT_BRACKET>;
-            key-positions = <32 33>;
-            layers = <0>;
-        };
-
-        combo_cut {
-            bindings = <&kp K_CUT>;
-            key-positions = <13 14>;
-            layers = <0>;
-        };
-
-        combo_copy {
-            bindings = <&kp K_COPY>;
-            key-positions = <14 15>;
-            layers = <0>;
-        };
-
-        combo_paste {
-            bindings = <&kp K_PASTE>;
-            key-positions = <15 16>;
-            layers = <0>;
-        };
-
-        combo_undo {
-            bindings = <&kp K_UNDO>;
-            key-positions = <16 17>;
-            layers = <0>;
-        };
-
-        combo_redo {
-            bindings = <&kp K_REDO>;
-            key-positions = <28 29>;
-            layers = <0>;
-        };
     };
 
     keymap {
